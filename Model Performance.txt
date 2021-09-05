@@ -1,0 +1,10 @@
+Data Set: Australian Rain Data set 
+Prediction: Rain Tomorrow 
+
+Model: Logistic Regression
+Accuracy of model on  Training  set= 85.19002326815527 %
+Accuracy of model on  Validation  set= 85.4058166071742 %
+Accuracy of model on  TEST  set= 84.24737456242707 %
+
+Model:Decision Tree Regressor
+Basic_accuracy(Training, Validation)=
